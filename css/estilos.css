@@ -15,7 +15,10 @@ body{
   max-width: 700px;
   background-color: antiquewhite;
   margin: 0 auto;
+  min-height: 100vh;
 }
+
+
 
 p{
   font-size: 18px;
@@ -28,6 +31,7 @@ p{
   align-items: center;
   justify-content: center;
   background-color: black;
+  padding: 1rem;
 }
 
 h1{
@@ -38,6 +42,12 @@ h1{
 
 .cabecera p{  
   color: white;
-  font-size: 14px;
+  font-size: 16px;
   align-self: flex-start;
+}
+
+.cabecera img{
+  width: 48px;
+  height: auto;
+  margin-right: 1rem;
 }
