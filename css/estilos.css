@@ -54,6 +54,11 @@ h1{
 
 footer{
   background-color: black;
+  /* position: static; */
+  /* bottom: 0; */
+  /* left: 0; */
+  width: 700px;
+  margin: 0 auto;
 }
 
 footer p{
