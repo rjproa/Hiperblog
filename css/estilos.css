@@ -1,0 +1,20 @@
+html,
+body,
+div,
+h1,
+p{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 700px;
+  background-color: antiquewhite;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 1rem;
+}
